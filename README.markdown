@@ -2,6 +2,8 @@ PullToRefresh
 
 A simple iPhone TableViewController for adding pull-to-refresh functionality.
 
+NOTE: These images are outdated.
+
 ![](http://s3.amazonaws.com/leah.baconfile.com/blog/refresh-small-1.png)
 ![](http://s3.amazonaws.com/leah.baconfile.com/blog/refresh-small-2.png)
 ![](http://s3.amazonaws.com/leah.baconfile.com/blog/refresh-small-3.png)
@@ -11,11 +13,12 @@ Inspired by [Tweetie 2](http://www.atebits.com/tweetie-iphone/), [Oliver Drobnik
 and [EGOTableViewPullRefresh](http://github.com/enormego/EGOTableViewPullRefresh).
 
 
-How to intall
+How to install
 
-1. Copy the files, [PullRefreshTableViewController.h](http://github.com/leah/PullToRefresh/raw/master/Classes/PullRefreshTableViewController.h),
-[PullRefreshTableViewController.m](http://github.com/leah/PullToRefresh/blob/master/Classes/PullRefreshTableViewController.m),
-and [arrow.png](http://github.com/leah/PullToRefresh/raw/master/arrow.png) into your project.
+1. Copy the files, [PullRefreshTableViewController.h](http://github.com/andmej/PullToRefresh/blob/master/Classes/PullRefreshTableViewController.h),
+[PullRefreshTableViewController.m](http://github.com/andmej/PullToRefresh/blob/master/Classes/PullRefreshTableViewController.m),
+[blueArrow.png](http://github.com/andmej/PullToRefresh/blob/master/blueArrow.png),
+and [blueArrow@2x.png](http://github.com/andmej/PullToRefresh/blob/master/blueArrow@2x.png) into your project.
 
 2. Link against the QuartzCore framework (used for rotating the arrow image).
 
